@@ -1,0 +1,2 @@
+class SmoothiesController < ApplicationController
+end
